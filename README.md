@@ -25,3 +25,8 @@ The super admin is a unique user that controls all of their universities. They c
 
 <img src="/Screenshots/SuperAdmin_Home.png?raw=true" width=50% height=50%>
 Super Admin Homepage
+
+## Authors
+
+EVI was created by [Alfred Yoo](https://github.com/jyrz13149), [Brandon Spangler](https://github.com/brandonspangler2), and [Zachary Ebaugh](https://github.com/ZacharyEbaugh)
+
