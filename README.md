@@ -2,7 +2,8 @@
 
 EVI is a UCF-based student calendar event tracker. It allows students to follow events from the UCF School Website or other student-created events from their RSOs (registered student organizations). 
 
-![screenshot of EVI Homepage](/relative/Screenshots/Home_Page.png)
+<img src="/Screenshots/Home_Page.png?raw=true" width=50% height=50%>
+EVI Homepage
 
 ## Students
 
